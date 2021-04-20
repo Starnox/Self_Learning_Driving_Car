@@ -1,7 +1,16 @@
 # Self_Learning_Driving_Car
-A small game demonstrating the power of neural network
+A small but ambitious Unity game that runs both on Windows and on Android demonstrating the power of neural networks with the purpose of attracting highschool students into STEM.
 
-SelfLearning Car is a project developed by two high school students based on a genetic algorithm that trains a car to finish a race track in the least amount of time possible.
+
+## Creation
+SelfLearning Car is a project developed by two high school students(Mihailescu Eduard-Florin And Birtoiu Alexandru) based on a genetic algorithm that trains a car to finish a race track in the least amount of time possible.
 The algorithm consists of generations, each generation having 12 genomes that drive the car based on a neural network with different values that change consistently in order to increase the maximum fitness(i.e how much distance has the car traveled without bumping into walls). These values are combined with the distances between the car and the walls and produce an output telling to the car to accelerate or change directions.
- To train the AI, you press the "Train your AI" button where you can choose to either create a new AI or continue training an old one. You can have 3 versions of the AI stored in slots. You can also train your AI on a default track or on a one made by you by pressing the"Make own Track" button and save it to one of the slots. IMPORTANT NOTE: When editing your track please DO NOT intersect the roads as this feature has not been yet implemented.
+
+
+## Usage
+To train the AI, you press the "Train your AI" button where you can choose to either create a new AI or continue training an old one. You can have 3 versions of the AI stored in slots. You can also train your AI on a default track or on a one made by you by pressing the "Make own Track" button and save it to one of the slots. IMPORTANT NOTE: When editing your track please DO NOT intersect the roads as this feature has not been yet implemented.
 Other than that, have fun and watch the magic happen.
+
+![AI_Car(1)](https://user-images.githubusercontent.com/20702832/115359470-629dba80-a1c7-11eb-84a8-bc74652fb67a.gif)
+
+
